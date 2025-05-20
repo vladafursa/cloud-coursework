@@ -7,7 +7,7 @@ import javax.ws.rs.core.Response;
 import org.bson.Document;
 
 public class DatabaseConnection {
-    private static String uri = "mongodb+srv://vlada:vlada2004@cloudcoursework.d0yyv.mongodb.net/?retryWrites=true&w=majority&appName=CloudCoursework";
+    private static String uri = "";
     private static MongoClient mongoClient;
     
 
