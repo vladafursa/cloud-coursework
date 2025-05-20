@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/weather/WeatherService.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/weather/WeatherCache.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/Dockerfile</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/users/UserOperations.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/crime/CrimeCache.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/locationConverter/LocationService.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/distance/DistanceOperations.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/room/RoomListing.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/crime/CrimeJava.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/distance/DistanceCache.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/crime/CrimeService.java</file>
+            <file>file:/Users/vladafursa/Desktop/COMP30231/backend/cloud_backend/src/java/weather/ApplicationConfig.java</file>
+        </group>
+    </open-files>
+</project-private>
